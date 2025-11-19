@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8cbca07.css",
-    "main.js": "/static/js/main.06c57fc4.js",
-    "static/media/portfolio8.png": "/static/media/portfolio8.5fc46676f7e65ddf55a0.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a5ac103dec8d5305cee5.png",
-    "static/media/me-about.jpg": "/static/media/me-about.c4bc4bf729b7f356aa47.jpg",
-    "static/media/me.png": "/static/media/me.324a7cc07a33b88c2f52.png",
-    "static/media/portfolio2.png": "/static/media/portfolio2.f586eb5929ec2964f9ed.png",
-    "static/media/portfolio3.png": "/static/media/portfolio3.eeb82f7160facb7d5ca8.png",
-    "static/media/portfolio9.png": "/static/media/portfolio9.cbb3d6ea2768bfe44382.png",
-    "static/media/bg-texture.png": "/static/media/bg-texture.ae8cce514f20563cab47.png",
-    "static/media/portfolio4.png": "/static/media/portfolio4.cb73182a7d8774c42c61.png",
-    "static/media/portfolio7.png": "/static/media/portfolio7.b5d6e2a2539929956100.png",
-    "static/media/portfolio1.png": "/static/media/portfolio1.2f0e0e12461a91bc2f30.png",
-    "static/media/portfolio6.png": "/static/media/portfolio6.89af44350d1db51e8b4a.png",
-    "index.html": "/index.html",
-    "main.e8cbca07.css.map": "/static/css/main.e8cbca07.css.map",
-    "main.06c57fc4.js.map": "/static/js/main.06c57fc4.js.map"
+    "main.css": "/menard-portfolio/static/css/main.85ce5833.css",
+    "main.js": "/menard-portfolio/static/js/main.734f5ae1.js",
+    "static/media/portfolio8.png": "/menard-portfolio/static/media/portfolio8.5fc46676f7e65ddf55a0.png",
+    "static/media/portfolio5.png": "/menard-portfolio/static/media/portfolio5.a5ac103dec8d5305cee5.png",
+    "static/media/me-about.jpg": "/menard-portfolio/static/media/me-about.c4bc4bf729b7f356aa47.jpg",
+    "static/media/me.png": "/menard-portfolio/static/media/me.324a7cc07a33b88c2f52.png",
+    "static/media/portfolio2.png": "/menard-portfolio/static/media/portfolio2.f586eb5929ec2964f9ed.png",
+    "static/media/portfolio3.png": "/menard-portfolio/static/media/portfolio3.eeb82f7160facb7d5ca8.png",
+    "static/media/portfolio9.png": "/menard-portfolio/static/media/portfolio9.cbb3d6ea2768bfe44382.png",
+    "static/media/bg-texture.png": "/menard-portfolio/static/media/bg-texture.ae8cce514f20563cab47.png",
+    "static/media/portfolio4.png": "/menard-portfolio/static/media/portfolio4.cb73182a7d8774c42c61.png",
+    "static/media/portfolio7.png": "/menard-portfolio/static/media/portfolio7.b5d6e2a2539929956100.png",
+    "static/media/portfolio1.png": "/menard-portfolio/static/media/portfolio1.2f0e0e12461a91bc2f30.png",
+    "static/media/portfolio6.png": "/menard-portfolio/static/media/portfolio6.89af44350d1db51e8b4a.png",
+    "index.html": "/menard-portfolio/index.html",
+    "main.85ce5833.css.map": "/menard-portfolio/static/css/main.85ce5833.css.map",
+    "main.734f5ae1.js.map": "/menard-portfolio/static/js/main.734f5ae1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8cbca07.css",
-    "static/js/main.06c57fc4.js"
+    "static/css/main.85ce5833.css",
+    "static/js/main.734f5ae1.js"
   ]
 }
