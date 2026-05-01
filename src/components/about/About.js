@@ -39,7 +39,7 @@ const About = () => {
             <AboutCard 
               icon={<FaAward className='about__icon'/>}
               title="Learning Experience"
-              subtitle="3+ Years of IT Studies"
+              subtitle="4 Years of IT Studies"
             />
 
             <AboutCard 
@@ -50,9 +50,9 @@ const About = () => {
           </div>
 
           <p>
-              Hello, I'm Menard Macaraeg, and I'm in my last year of IT studies at Central Luzon State University.
-              I really enjoy front-end development, which is about making websites look good and work well. I love creating websites that are easy for everyone to use. My goal is to use my skills to help with important projects.
-              I am looking for a chance to learn from skilled developers and grow in this career.
+              I am an Information Technology graduate with experience in web-based systems development, UI/UX design, and technical support. I have worked on academic and real-world projects where I developed system features, designed user interfaces, and created technical documentation.
+              My experience includes building responsive applications, managing databases, and performing system testing and troubleshooting. I am comfortable handling tasks from planning and prototyping to implementation and support.
+              I am seeking opportunities where I can apply my skills, contribute to system development, and continue improving as an IT professional.
           </p>
 
           <a href="#contact" className='btn btn-1' >Let's Talk</a>

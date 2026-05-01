@@ -28,29 +28,25 @@ const ServiceCard = (props) => {
 }
 
 const Services = () => {
-  const prototypingItems = [
-    'Wireframe creation for layout planning.',
-    'Interactive mockups for client presentations.',
-    'Low- and high-fidelity prototypes for testing.',
-    'Collaboration with stakeholders on design flow.',
-    'Iterative updates to refine concepts quickly.'
+  const SystemsDevelopmentItems = [
+    'Develop web-based systems and application features.',
+    'Build backend and frontend components.',
+    'Work with databases (MySQL / MariaDB).',
+    'Implement system functionality and improvements.'
   ]
 
-  const developmentItems = [
-    'Responsive layouts optimized for all devices.',
-    'Clean and modern interface design.',
-    'Accessibility-focused development.',
-    'Component-based UI with React.js.',
-    'Consistent design systems and style guides.'
+  const UIUXDesignItems = [
+    'Create wireframes and interface prototypes.',
+    'Design responsive and user-friendly layouts.',
+    'Improve usability and user experience.',
+    'Apply consistent design standards.'
   ]
 
-  const testingItems = [
-    'Usability testing for smooth user interaction.',
-    'Cross-browser and cross-device compatibility checks.',
-    'A/B testing to compare design variations.',
-    'Collecting user feedback and refining UI.',
-    'Bug tracking and interface performance testing.',
-    'Testing and Support, Maintenance.'
+  const TechnicalSupportItems = [
+    'Perform system testing, debugging, and troubleshooting.',
+    'Provide basic computer maintenance and support.',
+    'Ensure system functionality and performance.',
+    'Assist in deployment and system updates.'
   ]
 
   return (
@@ -59,9 +55,9 @@ const Services = () => {
       <h2>What i Offer</h2>
 
       <div className="container services__container">
-        <ServiceCard title="Prototyping" items={prototypingItems} />
-        <ServiceCard title="UI & UX Development" items={developmentItems} />
-        <ServiceCard title="UI & UX Testing" items={testingItems} />
+        <ServiceCard title="Systems Development" items={SystemsDevelopmentItems} />
+        <ServiceCard title="UI/UX Design" items={UIUXDesignItems} />
+        <ServiceCard title="Technical Support" items={TechnicalSupportItems} />
       </div>
     </section>
   )

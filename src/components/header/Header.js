@@ -9,7 +9,8 @@ const HeaderText = () => {
     <>
       <h4 align="center">Hello I'm</h4>
       <h1 align="center">Menard Macaraeg</h1>
-      <h5 align="center" className="text-light">Aspiring Frontend Developer</h5>
+      <h5 align="center" className="text-light">Systems Developer | UI/UX Designer | IT Support</h5>
+      <h5 align="center" className="text-light">Building functional, user-centered web applications and systems</h5>
     </>
   )
 }
